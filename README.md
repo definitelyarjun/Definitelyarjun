@@ -1,4 +1,4 @@
-![Profile Header](https://imgur.com/gallery/Lw6u78A)
+![Profile Header](https://github.com/definitelyarjun/Definitelyarjun/blob/main/My%20Header.png)
 ### **Welcome to my profile! 👋**
 ![Welcome](https://media.giphy.com/media/fT3780EXa2R4lQOBXo/giphy.gif)
 
