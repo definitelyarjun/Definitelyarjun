@@ -1,5 +1,6 @@
 ### **Welcome to my profile! 👋**
 ![Welcome](https://media.giphy.com/media/fT3780EXa2R4lQOBXo/giphy.gif)
+
 My name is Arjun Jayakumar, Currently pursuing computer science in college.
 Some fun facts about me...
 - Loves networking and love to connect with people (So please do reach out to me if possible)
