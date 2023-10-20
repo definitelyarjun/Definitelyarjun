@@ -1,3 +1,4 @@
+![Profile Header](https://imgur.com/a/Xh9MlX4)
 ### **Welcome to my profile! 👋**
 ![Welcome](https://media.giphy.com/media/fT3780EXa2R4lQOBXo/giphy.gif)
 
