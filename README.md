@@ -1,5 +1,5 @@
 ![My Header](https://github.com/definitelyarjun/Definitelyarjun/assets/119649647/7641111e-83ce-42f3-a6c6-af37a583535c)
-### **Welcome to my profile! 👋**
+### **Welcome to my profile!**
 ![Welcome](https://media.giphy.com/media/fT3780EXa2R4lQOBXo/giphy.gif)
 
 Hey there im Arjun Jayakumar👋, Currently pursuing computer science.
