@@ -3,3 +3,17 @@
 
 Hey there, i'm Arjun Jayakumar! ✨
 I mess around with computers and tech in general
+
+```
+  ,-.       _,---._ __  / \
+ /  )    .-'       `./ /   \
+(  (   ,'            `/    /|
+ \  `-"             \'\   / |
+  `.              ,  \ \ /  |
+   /`.          ,'-`----Y   |
+  (            ;        |   '
+  |  ,-.    ,-'         |  /
+  |  | (   |        hjw | /
+  )  |  \  `.___________|/
+  `--'   `--'
+```
