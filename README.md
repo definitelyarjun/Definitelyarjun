@@ -3,3 +3,6 @@
 
 Hey there, i'm Arjun Jayakumar! ✨
 I mess around with computers and tech in general
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definitelyarjun&hide_progress=true)
