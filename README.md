@@ -2,4 +2,4 @@
 # **Welcome to my profile! ✨**
 
 Hey there, i'm Arjun Jayakumar! 👋
-I mess around with computers and deep-dive into what more can be learned!
+I mess around with computers and tech in general
