@@ -13,7 +13,7 @@ I mess around with computers and tech in general
    /`.          ,'-`----Y   |
   (            ;        |   '
   |  ,-.    ,-'         |  /
-  |  | (   |        hjw | /
+  |  | (   |        ajk | /
   )  |  \  `.___________|/
   `--'   `--'
 ```
