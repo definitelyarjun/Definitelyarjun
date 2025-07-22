@@ -1,4 +1,4 @@
-![My header](https://github.com/definitelyarjun/Definitelyarjun/assets/119649647/7271fa87-dd9b-4f3d-8d4d-96b75082cee8)
+![My header](https://github.com/user-attachments/assets/9cae9cc5-bc1e-4f70-acb6-344bad5e34a0)
 # **Welcome to my profile! 👋**
 
 Hey there, i'm Arjun Jayakumar! ✨ I mess around with computers and tech in general
